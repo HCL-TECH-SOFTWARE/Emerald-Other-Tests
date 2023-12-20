@@ -24,7 +24,7 @@
 		},
 		{
 			"key": "port-number",
-			"value": "5443",
+			"value": "443",
 			"enabled": true
 		},
 		{
