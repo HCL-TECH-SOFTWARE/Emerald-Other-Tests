@@ -31,7 +31,7 @@
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
           <stringProp name="HTTPSampler.domain">commerce-preview.sbx0305.play.hclsofy.com</stringProp>
-          <stringProp name="HTTPSampler.port">6443</stringProp>
+          <stringProp name="HTTPSampler.port">443</stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
           <stringProp name="HTTPSampler.path">/Emerald</stringProp>
@@ -61,7 +61,7 @@
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
           <stringProp name="HTTPSampler.domain">commerce-preview.sbx0305.play.hclsofy.com</stringProp>
-          <stringProp name="HTTPSampler.port">6443</stringProp>
+          <stringProp name="HTTPSampler.port">443</stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
           <stringProp name="HTTPSampler.path">/Emerald/dining-room</stringProp>
@@ -91,7 +91,7 @@
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
           <stringProp name="HTTPSampler.domain">commerce-preview.sbx0305.play.hclsofy.com</stringProp>
-          <stringProp name="HTTPSampler.port">6443</stringProp>
+          <stringProp name="HTTPSampler.port">443</stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
           <stringProp name="HTTPSampler.path">/Emerald/bedroom</stringProp>
@@ -121,7 +121,7 @@
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
           <stringProp name="HTTPSampler.domain">commerce-preview.sbx0305.play.hclsofy.com</stringProp>
-          <stringProp name="HTTPSampler.port">6443</stringProp>
+          <stringProp name="HTTPSampler.port">443</stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
           <stringProp name="HTTPSampler.path">/Emerald/bath</stringProp>
@@ -151,7 +151,7 @@
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
           <stringProp name="HTTPSampler.domain">commerce-preview.sbx0305.play.hclsofy.com</stringProp>
-          <stringProp name="HTTPSampler.port">6443</stringProp>
+          <stringProp name="HTTPSampler.port">443</stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
           <stringProp name="HTTPSampler.path">/Emerald/living-room</stringProp>
@@ -181,7 +181,7 @@
             <collectionProp name="Arguments.arguments"/>
           </elementProp>
           <stringProp name="HTTPSampler.domain">commerce-preview.sbx0305.play.hclsofy.com</stringProp>
-          <stringProp name="HTTPSampler.port">6443</stringProp>
+          <stringProp name="HTTPSampler.port">443</stringProp>
           <stringProp name="HTTPSampler.protocol">https</stringProp>
           <stringProp name="HTTPSampler.contentEncoding"></stringProp>
           <stringProp name="HTTPSampler.path">/Emerald/kitchen</stringProp>
